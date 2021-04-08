@@ -13,8 +13,8 @@ pip install polyline
 ```
 
 ## Getting Started
-The library includes wrappers for all API offerings (Directions, Places, 
-Geocoding, and Roads API). You can import the wrapper you need by selecting
+The library __will include__ wrappers for all API offerings (Directions, Places, 
+Geocoding, and Roads API). For now, only the Directions API is being written. You can import the wrapper you need by selecting
 which class to import.
 ```python
 # example with the Directions API
